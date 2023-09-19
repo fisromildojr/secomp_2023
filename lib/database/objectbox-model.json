@@ -1,0 +1,47 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:3600498835485635569",
+      "lastPropertyId": "4:2867243089980359630",
+      "name": "Tarefa",
+      "properties": [
+        {
+          "id": "1:7978350033288843724",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:5638868018692067002",
+          "name": "title",
+          "type": 9
+        },
+        {
+          "id": "3:7529593927931960650",
+          "name": "descricao",
+          "type": 9
+        },
+        {
+          "id": "4:2867243089980359630",
+          "name": "executada",
+          "type": 1
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:3600498835485635569",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
